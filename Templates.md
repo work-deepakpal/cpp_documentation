@@ -1,13 +1,13 @@
-**Templates are expanded at compiler time. This is like macros. 
+Templates are expanded at compiler time. This is like macros. 
 The difference is, that the compiler does type-checking before template expansion. 
-The idea is simple, source code contains only function/class, but compiled code may contain multiple copies of the same function/class.**
+The idea is simple, source code contains only function/class, but compiled code may contain multiple copies of the same function/class.
 
 ![image](https://github.com/user-attachments/assets/74a9da18-f891-414b-9749-296b087a8ee4)
 
-Function Templates
+**Function Templates**
+
 We write a generic function that can be used for different data types. Examples of function templates are sort(), max(), min(), printArray(). 
 
-To know more about the topic refer to Generics in C++.
 ```
 // C++ Program to demonstrate
 // Use of template
