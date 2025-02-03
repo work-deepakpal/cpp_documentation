@@ -8,3 +8,10 @@ https://stackoverflow.com/questions/5695548/public-friend-swap-member-function
 Why virtual Destructors should not be used ? 
 https://softwareengineering.stackexchange.com/a/306307
 https://stackoverflow.com/q/1647298
+
+Why we cannot have virtual constructors
+https://www.geeksforgeeks.org/advanced-c-virtual-constructor/
+
+Virtual Pointers and VTable
+https://www.learncpp.com/cpp-tutorial/the-virtual-table/
+https://isocpp.org/wiki/faq/virtual-functions#dyn-binding2
