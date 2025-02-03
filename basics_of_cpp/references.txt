@@ -15,3 +15,6 @@ https://www.geeksforgeeks.org/advanced-c-virtual-constructor/
 Virtual Pointers and VTable
 https://www.learncpp.com/cpp-tutorial/the-virtual-table/
 https://isocpp.org/wiki/faq/virtual-functions#dyn-binding2
+
+New and Delete
+https://isocpp.org/wiki/faq/freestore-mgmt
