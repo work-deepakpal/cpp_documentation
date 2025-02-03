@@ -1,0 +1,6 @@
+
+Initializer List : 
+https://stackoverflow.com/a/1272764
+
+Friend Swap Function
+https://stackoverflow.com/questions/5695548/public-friend-swap-member-function

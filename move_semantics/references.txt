@@ -1,0 +1,8 @@
+Move semantics
+https://stackoverflow.com/a/11540204
+https://stackoverflow.com/questions/3106110/what-is-move-semantics/3109981#3109981
+https://jbseg.medium.com/move-semantics-in-practice-c4a101e87039
+
+
+Copy and Swap Idiom
+https://stackoverflow.com/a/3279550
